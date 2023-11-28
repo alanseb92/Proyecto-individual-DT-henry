@@ -52,5 +52,5 @@ Estas acciones de transformación de datos desempeñaron un papel fundamental en
 
 ## <h2 align=center> **`Links`**</h2>
 
-- Deploy del Proyecto (Render):
-- Google Colab donde se realizaron todos los procesos (Drive): 
+- Deploy del Proyecto (Render): https://proyecto-individual-dt-henry.onrender.com
+- Google Colab donde se realizaron todos los procesos (Drive): https://drive.google.com/drive/folders/1pI7uhIHCqwEqkYCA-tH5ECTJVzv03Oqq?usp=sharing
