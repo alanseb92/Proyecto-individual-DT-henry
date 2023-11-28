@@ -52,6 +52,5 @@ Estas acciones de transformación de datos desempeñaron un papel fundamental en
 
 ## <h2 align=center> **`Links`**</h2>
 
-- Deploy del Proyecto (Render): https://pimlops-jcyezzi.onrender.com/
-- Video explicativo (Youtube): https://www.youtube.com/watch?v=fr1KMGPHqEY
-- Google Colab donde se realizaron todos los procesos (Drive): https://drive.google.com/drive/folders/1VJOyJJnnWK4A0VjDOrFZx0AmwzUPqwVp?usp=drive_link
+- Deploy del Proyecto (Render):
+- Google Colab donde se realizaron todos los procesos (Drive): 
