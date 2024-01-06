@@ -34,11 +34,11 @@ async def incio ():
         </head>
         <body>
             <h1>API de consultas sobre videojuegos de la plataforma Steam</h1>
-            <p>Bienvenido a la API de Steam donde se pueden hacer diferentes consultas sobre la plataforma de videojuegos, Se ha utilizado Analisis de Sentimientos por Lingüística Computacional y Machine Learning</p>
+            <p>Bienvenido a la API de Steam donde se pueden hacer diferentes consultas, se ha utilizado Analisis de Sentimientos por Lingüística Computacional y Machine Learning</p>
             <p>INSTRUCCIONES:</p>
             <p>Escriba <span style="background-color: lightgray;">/docs</span> a continuación de la URL actual de esta página para interactuar con la API</p>
             <p>Consulte en el siguiente enlace:<a href="https://proyecto-individual-dt-henry.onrender.com/docs/">{{FastAPI}}</a></p>
-            <p> El desarrollo de este proyecto esta en <a href="https://github.com/alanseb92/Proyecto-individual-DT-henry"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a></p>
+            <p> El desarrollo de este proyecto de Ingenieria de Datos esta en <a href="https://github.com/alanseb92/Proyecto-individual-DT-henry"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github"></a></p>
             <p>Alan Sebastián García - 2024 -</p>
         </body>
     </html>
