@@ -33,8 +33,8 @@ async def incio ():
             </style>
         </head>
         <body>
-            <h1>API de consultas sobre juegos de la plataforma Steam</h1>
-            <p>Bienvenido a la API de Steam donde se pueden hacer diferentes consultas sobre la plataforma de videojuegos.</p>
+            <h1>API de consultas sobre videojuegos de la plataforma Steam</h1>
+            <p>Bienvenido a la API de Steam donde se pueden hacer diferentes consultas sobre la plataforma de videojuegos, utilizando analisis de sentimientos por Lingüística Computacional y Machine Learning </p>
             <p>INSTRUCCIONES:</p>
             <p>Escriba <span style="background-color: lightgray;">/docs</span> a continuación de la URL actual de esta página para interactuar con la API</p>
             <p>Consulte en el siguiente enlace:<a href="https://proyecto-individual-dt-henry.onrender.com/docs/">{{FastAPI}}</a></p>
