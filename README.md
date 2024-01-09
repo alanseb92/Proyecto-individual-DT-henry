@@ -28,7 +28,8 @@ Estas acciones de transformación de datos desempeñaron un papel fundamental en
 
 
 **El código se encuentra  en el apartado de Links, te redireccionan a un Google Drive donde están todos los archivos de Google Colab.**
-https://proyecto-individual-dt-henry.onrender.com/
+https://drive.google.com/drive/folders/1pI7uhIHCqwEqkYCA-tH5ECTJVzv03Oqq?usp=sharing
+
 
 
 
