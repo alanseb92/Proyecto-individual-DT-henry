@@ -26,7 +26,9 @@ En el marco de este proyecto, se nos asignaron tareas específicas relacionadas 
 
 Estas acciones de transformación de datos desempeñaron un papel fundamental en la preparación del conjunto de datos, garantizando su adecuación para el análisis subsiguiente y su aplicación en el desarrollo del proyecto.
 
+
 **El código se encuentra  en el apartado de Links, te redireccionan a un Google Drive donde están todos los archivos de Google Colab.**
+https://proyecto-individual-dt-henry.onrender.com/
 
 
 
