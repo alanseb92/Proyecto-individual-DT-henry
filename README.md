@@ -57,3 +57,4 @@ https://drive.google.com/drive/folders/1pI7uhIHCqwEqkYCA-tH5ECTJVzv03Oqq?usp=sha
 
 - Deploy del Proyecto (Render): https://proyecto-individual-dt-henry.onrender.com
 - Google Colab donde se realizaron todos los procesos (Drive): https://drive.google.com/drive/folders/1pI7uhIHCqwEqkYCA-tH5ECTJVzv03Oqq?usp=sharing
+- Video del Proyecto: https://drive.google.com/file/d/1oTvnDH4tIM_Qo6Fsbv9YNUiF80bKJuIs/view?usp=sharing
