@@ -33,7 +33,7 @@ async def incio ():
             </style>
         </head>
         <body>
-            <h1>API de consultas sobre videojuegos de la plataforma Steam</h1>
+            <h1>Sistema de Recomendación de videojuegos de la plataforma Steam</h1>
             <p>Bienvenido a la API de Steam donde se pueden hacer diferentes consultas, se ha utilizado Analisis de Sentimientos por Lingüística Computacional y Machine Learning</p>
             <p>INSTRUCCIONES:</p>
             <p>Escriba <span style="background-color: lightgray;">/docs</span> a continuación de la URL actual de esta página para interactuar con la API</p>
